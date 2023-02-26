@@ -1,0 +1,53 @@
+.navbar img{
+    height: 30px;
+    width: auto;
+    margin-left: 40px;
+}
+.navbar{
+    background-color: #000;
+    height: 50px;
+}
+.location_button{
+    background-color: transparent;
+    border: none;
+    margin-left: 30px;
+    color: #fff;    
+}
+.location_button:hover{
+    border: 1px solid #fff;  
+    background-color: transparent; 
+    margin-left: 30px;
+    color: #fff; 
+}
+.location_button p{
+    margin: 0px;
+}
+.p2{
+    size: bold;
+    margin: 0px;
+    
+}
+.navbar form{  
+    margin-right: 40px;
+}
+.navbar form input{  
+    width: 600px;
+}
+li{
+    color: #fff;
+    text-decoration: none;
+    text-align: left;
+    list-style-type: none;
+    margin-right: 30px; 
+}
+ul {
+    list-style-type: none;
+}
+nav p{
+    color: #fff;
+    cursor: pointer;
+}
+.cart_div{
+    margin-right: 50px;
+    cursor: pointer;
+}
